@@ -1,1 +1,4 @@
 my name is Ishan
+This is me learning git
+git branch branch_name creates a new branch
+git checkout branch_name changes the current branch
