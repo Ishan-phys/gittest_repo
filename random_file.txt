@@ -4,4 +4,4 @@ git branch branch_name creates a new branch
 git checkout branch_name changes the current branch
 git merge branch_name to merge with the main branch,
 note you must be in the main branch
-Changes by dev 2
+Changes by Intelli54 to test the pull requests in GITHub universe.
